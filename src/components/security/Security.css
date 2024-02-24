@@ -1,0 +1,100 @@
+.security {}
+
+.security .data-profile {
+    padding: 2rem;
+    background-image: url(../../assets/About-Us-BG-1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    /* background-color: #06090d; */
+    border-radius: 25px;
+    border: 4px solid #1f93ff;
+    /* background-color: #0f5069e8; */
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    position: relative;
+}
+
+.security .icon {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    cursor: pointer;
+
+}
+
+.security .data-profile .input-box {
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 5fr;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* width: 100%; */
+    /* background-color: #1f93ff; */
+}
+
+.security .data-profile .input-box.active label {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.security .data-profile .input-box.active p {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.security .data-profile .input-box input {
+    background-color: transparent;
+}
+
+.security .data-profile .input-box.active input {
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.security .data-profile .edit {
+    width: 40%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin: 0 auto;
+}
+
+.security .data-profile .edit button {
+    border: 2px solid #1f93ff;
+    padding: 10px;
+    border-radius: 15px;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+    font-weight: 400;
+    overflow: hidden;
+    transition: .3s color;
+    transition: .5s;
+    position: relative;
+    z-index: 1;
+}
+
+.security .data-profile .edit button::before {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #1f93ff;
+    color: white;
+    z-index: -1;
+    transition: 1s width;
+}
+
+.security .data-profile .edit button:hover {
+    color: #000;
+    /* transition-delay: 0s, 1s; */
+}
+
+.security .data-profile .edit button:hover::before {
+    width: 100%;
+}

@@ -1,0 +1,126 @@
+.product-details {
+    /* height: auto; */
+    /* margin: 60px auto; */
+    /* width: 70%; */
+    overflow: hidden;
+    min-height: 75vh;
+
+    background-image: url(../../../assets/About-Us-BG-1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6rem 4rem;
+    color: white;
+    background-color: #06090d;
+    /* display: grid; */
+    /* grid-template-columns: 1fr 350px; */
+    padding: 50px;
+    gap: 30px;
+}
+
+.product-details .content {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+
+.product-details .head h2 {
+    font-size: 2rem;
+}
+
+.product-details .image {
+    width: 32%;
+    max-height: 50%;
+    padding: 10px;
+    /* border: 1px solid white; */
+    box-shadow: 0 0 30px 10px #477cff;
+}
+
+.product-details .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.product-details .text {
+    width: 62%;
+    padding: 10px;
+}
+
+.product-details .title {
+    font-size: 1.5rem;
+    margin: 0 0 10px 0;
+}
+
+.product-details .price {
+    font-size: 1.5rem;
+    color: #477cff;
+    margin: 0;
+}
+
+.product-details .description {
+    font-size: 20px;
+}
+
+.product-details .addingbtn {
+    background-color: #477cff;
+    color: white;
+    width: 30%;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-size: 1.4rem;
+}
+
+@media screen and (max-width: 1700px) {
+    .product-details .container {
+        width: 80%;
+        height: 76.5vh;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .product-details .text {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .product-details .text {
+        width: 40%;
+    }
+
+    .product-details .image {
+        width: 55%;
+    }
+
+    .product-details .addingbtn {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .product-details .container {
+        height: auto;
+    }
+
+    .product-details .content {
+        display: block;
+        text-align: center;
+        margin: 10px auto;
+    }
+
+    .product-details .image {
+        margin: auto;
+    }
+
+    .product-details .text {
+        margin: auto;
+        width: 80%;
+    }
+
+    .product-details .addingbtn {
+        margin: auto;
+    }
+
+}

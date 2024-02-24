@@ -1,0 +1,30 @@
+.container {
+    width: 70%;
+    margin: auto;
+    margin-top:40px;
+    min-height: 80vh;
+}
+@media screen and (max-width: 1400px){
+    .container{
+        width: 80%;
+        height: 76.5vh;
+    }
+}
+@media screen and (max-width: 1000px){
+    .container{
+        width: 90%;
+        height: auto;
+    }
+    .image{
+        display: none !important;
+    }
+}
+@media screen and (max-width: 600px){
+    .container{
+        width: 98%;
+        height: auto;
+    }
+    td{
+        padding: 5px;
+    }
+}

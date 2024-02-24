@@ -1,0 +1,73 @@
+.active,
+.navlinks:hover {
+    color: red;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+}
+
+.nav {
+    min-height: 100%;
+    border-right: 2px solid #1f93ff;
+}
+
+.user {
+    background-color: #1f93ff;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.user h4 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.navlinks {
+    text-decoration: none;
+}
+
+.list {
+    width: auto;
+    font-size: 1.2em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list li {
+    width: 95%;
+    padding: 5px 10px;
+    border-bottom: 2px solid #1f93ff;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 1400px) {
+    .user {
+        padding: 20px;
+    }
+
+    .user h4 {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .nav {
+        min-height: auto;
+        width: 95%;
+        margin: auto;
+    }
+
+    .list {
+        display: flex;
+        align-content: center;
+    }
+
+    .list li {
+        border: none;
+    }
+
+    .user {
+        display: none;
+    }
+}

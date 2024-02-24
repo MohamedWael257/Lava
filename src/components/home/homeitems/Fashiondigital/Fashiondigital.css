@@ -1,0 +1,218 @@
+.fashionn {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.8),
+            rgba(0, 0, 0, 0.8)), url(../../../../assets/hotdeal.jpg);
+}
+
+
+
+.fashionn .offers {
+    background-color: #19252c;
+    padding: 10px;
+    color: white;
+}
+
+.offers .shop-now {
+    position: relative;
+    height: 300px;
+    /* margin-bottom: 20px; */
+}
+
+.shop-now img {
+    height: 100%;
+}
+
+.shop-now button {
+    position: absolute;
+    left: 0;
+    top: 18%;
+    /* transform: translate(50px, -230px); */
+    width: 150px;
+    height: 50px;
+}
+
+.fashionn .offers .recommended-items .recommended {
+    width: 100%;
+    height: 50px;
+}
+
+.fashionn .offers .recommended-items .card {
+    height: 320px;
+    border: none;
+}
+
+.fashionn .offers .recommended-items .card img {
+    width: 100%;
+    transition: .7s opacity;
+}
+
+.fashionn .recommended-items .card:hover img {
+    opacity: 0.5;
+}
+
+.fashionn .typesofcategories {
+    /* color: #000; */
+    height: fit-content;
+    background-color: #0f5069e8;
+}
+
+.fashionn .typesofcategories .fashion-accessories,
+.fashionn .typesofcategories .digital-electromic {
+
+    /* background-color: #0f5069e8; */
+    /* border: 1px solid rgb(85, 84, 84); */
+    border: 2px solid white;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent,
+.fashionn .typesofcategories .digital-electromic .fparent {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    height: 300px;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent>.child,
+.fashionn .typesofcategories .digital-electromic .fparent>.child {
+    height: 300px;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent>.child .details,
+.fashionn .typesofcategories .digital-electromic .fparent>.child .details {
+    padding: 35px;
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px;
+    gap: 20px;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent .sparent .child,
+.fashionn .typesofcategories .digital-electromic .fparent .sparent .child {
+    /* border: 1px solid rgb(85, 84, 84); */
+    border: 2px solid white;
+    position: relative;
+    cursor: pointer;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent .sparent p,
+.fashionn .typesofcategories .digital-electromic .fparent .sparent p {
+
+    position: absolute;
+    top: 80px;
+    left: 12px;
+    text-align: center;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent>.child img,
+.fashionn .typesofcategories .digital-electromic .fparent>.child img {
+
+    width: 100%;
+    height: 100%;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent .sparent .lparent,
+.fashionn .typesofcategories .digital-electromic .fparent .sparent .lparent {
+    height: 150px;
+    display: grid;
+    grid-template-columns: 125px 125px;
+}
+
+.fashionn .typesofcategories .fashion-accessories .fparent .sparent img,
+.fashionn .typesofcategories .digital-electromic .fparent .sparent img {
+    width: 50%;
+    height: 50%;
+    transform: translatex(30px);
+    /* border: 1px solid rgb(85, 84, 84); */
+
+}
+
+/* .carsu {
+    height: 76%;
+} */
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+}
+
+.visually-hidden {
+    display: none;
+}
+
+@media(max-width:1200px) {
+    .fashionn {
+        grid-template-columns: 25% 73%;
+    }
+
+    .fparent {
+        height: 300px;
+    }
+
+    .carsu {
+        height: 78%;
+        /* width: 80%; */
+    }
+
+    .carsu .imgg {
+        width: 80% !important;
+    }
+}
+
+@media(max-width:768px) {
+    .fashionn {
+        grid-template-columns: 90%;
+    }
+
+    .fashionn .offers {
+        display: none;
+    }
+
+    .fparent {
+        height: 600px;
+    }
+
+    .sparent {
+        display: flex;
+        justify-content: center;
+    }
+
+    .fashionn .typesofcategories .fashion-accessories .fparent,
+    .fashionn .typesofcategories .digital-electromic .fparent {
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 10px;
+        height: 470px;
+
+    }
+}
+
+@media(max-width:576px) {
+    .fashionn {
+        grid-template-columns: 100%;
+    }
+
+    .fparent {
+        height: 600px;
+    }
+
+    .sparent {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .fashionn .typesofcategories .fashion-accessories .fparent,
+    .fashionn .typesofcategories .digital-electromic .fparent {
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 10px;
+        height: 625px;
+    }
+}

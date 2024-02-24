@@ -1,0 +1,39 @@
+.booking-payment {
+    background-image: url(../../../assets/About-Us-BG-1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #06090d;
+    min-height: 70vh;
+
+}
+
+.booking-payment>div {
+    background-color: transparent;
+    /* background-color: #477cff; */
+    /* border: 3px solid #477cff; */
+    box-shadow: 0 0 30px 10px #477cff;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+.booking-payment h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.booking-payment p {
+    text-transform: capitalize;
+}
+
+.booking-payment button {
+    text-align: center;
+    background-color: #077cff;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}

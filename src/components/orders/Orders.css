@@ -1,0 +1,138 @@
+.orders {
+    /* background-image: url(../../assets/About-Us-BG-1.png); */
+    /* background-position: top center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* min-height: 100vh; */
+    /* padding: 6rem 4rem; */
+    padding: 25px;
+    /* background-color: #000; */
+    color: white;
+    /* display: flex; */
+    /* justify-content: space-between; */
+
+    /*  */
+    /* background-color: #06090d; */
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    /*  */
+    /* margin: auto; */
+    /* margin-top: 40px; */
+    min-height: 50vh;
+}
+
+.orders h2 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.orders table tbody tr td {
+    padding: 15px;
+}
+
+.tdimg {
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.table,
+td,
+th {
+    text-align: center;
+    /* padding: 15px; */
+    /* margin: 0 5px; */
+    border: 2px solid #477cff;
+}
+
+.table {
+    width: 100%;
+}
+
+.noorders {
+    font-size: 1.4rem;
+    width: 350px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    cursor: pointer;
+    border: 2px solid #477cff;
+    border-radius: 25px;
+    box-shadow:
+        0 0 10px #477cff,
+        0 0 20px #477cff;
+    transition: .5s background;
+    /* bg-dark p-5 text-center ng-star-inserted */
+}
+
+.noorders h2 i {
+    color: #477cff;
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+.noorders h5 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.noorders p {
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+
+.noorders a {
+    display: inline-block;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 25px;
+    border-radius: 15px;
+    background-color: #477cff;
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+    .orders {
+        height: 76.5vh;
+    }
+
+    .noorders {
+        width: 380px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .noorders {
+        width: 350px;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+
+    .image {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .noorders {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    td {
+        padding: 5px;
+    }
+
+    .table thead tr :nth-child(3),
+    .table tbody tr :nth-child(3),
+    .table thead tr :nth-child(5),
+    .table tbody tr :nth-child(5) {
+        display: none;
+    }
+}

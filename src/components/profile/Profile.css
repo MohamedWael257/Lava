@@ -1,0 +1,66 @@
+.profile {
+    background-image: url(../../assets/About-Us-BG-1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #06090d;
+    /* min-height: 100vh; */
+    /* padding: 6rem 4rem; */
+    /* justify-content: space-between; */
+    /*  */
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 10px;
+    /* gap: 30px; */
+    /* width: 100%; */
+}
+
+.profile.active {
+    grid-template-columns: 1fr;
+    padding: 0;
+}
+
+.profile.active .navbar {
+    display: none;
+}
+
+.profile.active .content {
+    padding: 0;
+}
+
+.profile .navbar {
+    /* width: 30%; */
+    min-height: 80vh;
+    color: white;
+
+}
+
+.profile .content {
+    /* width: 70% !important; */
+    padding: 0 1rem;
+}
+
+@media screen and (max-width: 1400px) {
+    .profile .content {
+        width: 60%;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+
+    .profile {
+        display: block;
+    }
+
+    .profile .navbar {
+        min-height: auto;
+        width: 100%;
+    }
+
+    .profile .content {
+        width: 95% !important;
+        margin: auto;
+    }
+
+}

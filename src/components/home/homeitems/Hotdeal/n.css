@@ -1,0 +1,157 @@
+.hot-deal,
+.fashionn {
+    display: grid;
+    gap: 25px;
+    grid-template-columns: 250px 1fr;
+    padding: 25px 15px;
+    background-image: url(../../../../assets/background.png);
+}
+
+.hot-deal .special-items {
+    background-color: #fff;
+}
+
+.special-items .item {
+    width: 100%;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-bottom: 20px;
+    font-size: 11rem;
+    padding: 10px;
+    position: relative;
+}
+
+.special-items .item ::after {
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: rgb(33, 37, 41);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.special-items .item img {
+    width: 70px;
+    height: 70px;
+}
+
+
+
+.hot-deal .deals .line,
+.fashionn .typesofcategories .line,
+.hot-deal .typesofcategories .line,
+.feature-items .line {
+    background-color: rgb(33, 37, 41);
+    width: 100%;
+    height: 2px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.hot-deal .deals .line::after,
+.fashionn .typesofcategories .line::after,
+.digital .typesofcategories .line::after,
+.feature-items .line::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 86px;
+    width: 0;
+    height: 0;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+
+.deals .carousel .cards {
+    display: flex;
+    justify-content: space-evenly;
+    height: 270px;
+    /* display: grid; */
+    /* gap: 10px; */
+    /* grid-template-columns: 250px, 250px, 250px, 250px; */
+    /* width: 100%; */
+}
+
+.deals .carousel .cards .card {
+    width: 250px;
+    height: 280px;
+    background-color: rgb(54, 59, 65);
+    color: white;
+}
+
+.deals .carousel .cards .card p {
+    font-size: 1rem;
+}
+
+.deals .carousel .cards .card img {
+    width: 100%;
+    height: 140px;
+    transition: .7s filter;
+}
+
+.deals .carousel .cards .card:hover .add {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(-53px);
+}
+
+.deals .carousel .cards .card:hover>img {
+    filter: contrast(.5);
+}
+
+/* //////////end hot deal//////////// */
+@media(max-width:1200px) {
+
+    .hot-deal {
+        display: grid;
+        gap: 25px;
+        grid-template-columns: 25% 72%;
+        padding: 25px 15px;
+        background-image: url(../../../../assets/background.png);
+    }
+
+    .deals .carousel .cards {
+        height: 230px;
+        font-size: .8rem;
+    }
+
+    .deals .carousel .cards .add {
+        padding: 10px;
+    }
+
+    .deals .carousel .cards .card:hover .add {
+
+        transform: translateY(-31px);
+    }
+
+
+
+    .deals .carousel .cards .card p {
+        font-size: .7rem;
+    }
+}
+
+
+@media(max-width:768px) {
+
+    .hot-deal {
+        display: grid;
+        gap: 25px;
+        grid-template-columns: 100%;
+        padding: 25px 15px;
+        background-image: url(../../../../assets/background.png);
+    }
+
+
+
+
+}
+
+@media(max-width:576px) {
+    .deals {
+        display: none;
+    }
+}

@@ -1,0 +1,2030 @@
+{
+    "carousel_products": [
+        {
+            "id": 1,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/10/1.jpg",
+            "title": "Samsung Galaxy Book",
+            "a_price": "EGB 7994",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10",
+            "price": "5495",
+            "itemquantity": 1
+        },
+        {
+            "id": 2,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/7/2.jpg",
+            "title": "Microsoft Surface Laptop4",
+            "a_price": "EGB 8994",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Samsung Galaxy Book S (2020) Laptop With",
+            "price": "7495",
+            "itemquantity": 1
+        },
+        {
+            "id": 3,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/9/2.png",
+            "title": "Infinix INBOOK",
+            "a_price": "EGB 8994",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14",
+            "price": "7495",
+            "itemquantity": 1
+        },
+        {
+            "id": 4,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/8/2.jpg",
+            "title": "HP Pavilion 15-DK1056WM",
+            "a_price": "EGB 7994",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Style and speed. Stand out on HD video c",
+            "price": "5495",
+            "itemquantity": 1
+        }
+    ],
+    "carousel_deals": [
+        {
+            "id": 5,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/2.jpg",
+            "title": "Steel Analog Couple Watches",
+            "a_price": "EGB 210",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Steel Analog Couple Watches",
+            "price": "EGB 175",
+            "itemquantity": 1
+        },
+        {
+            "id": 13,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Elegant design, Stylish ,Unique & Trendy",
+            "title": "Elegant design, Stylish ,Unique & Trendy",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/1.jpg",
+            "a_price": "EGB 280",
+            "price": "EGB 175",
+            "itemquantity": 1
+        },
+        {
+            "id": 36,
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "An apple mobile which is nothing like ap",
+            "title": "An apple mobile which is nothing like ap",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "a_price": "EGB 2800",
+            "price": "EGB 2745",
+            "itemquantity": 1
+        },
+        {
+            "id": 24,
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Many store is creating new designs and t",
+            "title": "Money Heist Printed Summer T Shirts",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/51/1.png",
+            "a_price": "EGB 150",
+            "price": "EGB 115",
+            "itemquantity": 1
+        }
+    ],
+    "special_items": [
+        {
+            "id": 5,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/2.jpg",
+            "b_title": "Steel Analog",
+            "a_title": "Couple Watches",
+            "a_price": "210.0",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Steel Analog Couple Watches",
+            "price": "175",
+            "itemquantity": 1
+        },
+        {
+            "id": 6,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/67/2.jpg",
+            "b_title": "Fashion Magnetic",
+            "a_title": "Wrist Watches",
+            "a_price": "360.0",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Fashion Magnetic Wrist Watches",
+            "title": "Fashion Magnetic Wrist Watches",
+            "price": "300",
+            "itemquantity": 1
+        },
+        {
+            "id": 7,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/68/2.jpg",
+            "b_title": "Stylish Luxury",
+            "a_title": "Digital Watches",
+            "a_price": "342.0",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stylish Luxury Digital Watches",
+            "title": "Stylish Luxury Digital Watches",
+            "price": "285",
+            "itemquantity": 1
+        },
+        {
+            "id": 8,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/69/2.jpg",
+            "b_title": "Golden Pearls",
+            "a_title": "Brace Watches",
+            "a_price": "282.0",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Golden Pearls Brace Watches",
+            "title": "Golden Pearls Brace Watches",
+            "price": "235",
+            "itemquantity": 1
+        },
+        {
+            "id": 9,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/70/2.jpg",
+            "b_title": "Stainless Steel",
+            "a_title": "Women",
+            "a_price": "210.0",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stainless Steel",
+            "title": "Stainless Steel Women",
+            "price": "175",
+            "itemquantity": 1
+        }
+    ],
+    "bags_item": [
+        {
+            "id": 10,
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Women Shoulder Bags",
+            "title": "Women Shoulder Bags",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/71/2.jpg",
+            "price": "175",
+            "itemquantity": 1
+        },
+        {
+            "id": 11,
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Handbag For Girl",
+            "title": "Handbag For Girl",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/72/2.png",
+            "price": "360",
+            "itemquantity": 1
+        },
+        {
+            "id": 12,
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Fancy hand clutch",
+            "title": "Fancy hand clutch",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/73/2.webp",
+            "price": "285",
+            "itemquantity": 1
+        }
+    ],
+    "Women_watches_item": [
+        {
+            "id": 13,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Elegant design, Stylish ,Unique & Trendy",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/1.jpg",
+            "price": "175",
+            "itemquantity": 1
+        },
+        {
+            "id": 14,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Buy this awesome The product is origina",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/67/1.jpg",
+            "price": "380",
+            "itemquantity": 1
+        },
+        {
+            "id": 15,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Product details of Golden Watch Pearls B",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/69/1.jpg",
+            "price": "235",
+            "itemquantity": 1
+        },
+        {
+            "id": 16,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Fashion Skmei 1830 Shell Dial Stainless",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/70/1.jpg",
+            "price": "285",
+            "itemquantity": 1
+        },
+        {
+            "id": 17,
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stylish Luxury Digital Watch For Girls /",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/68/1.jpg",
+            "price": "175",
+            "itemquantity": 1
+        }
+    ],
+    "men_watches_item": [
+        {
+            "id": 18,
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Style:Sport ,Clasp:Buckles ,Water Resist",
+            "title": "Waterproof Leather Brand Watch",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/61/1.jpg",
+            "price": "600",
+            "itemquantity": 1
+        },
+        {
+            "id": 19,
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Watch Crown With Environmental IPS Bronz",
+            "title": "Royal Blue Premium Watch",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/62/1.jpg",
+            "price": "230",
+            "itemquantity": 1
+        },
+        {
+            "id": 20,
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Men Silver Chain Royal Blue Premium Watc",
+            "title": "Leather Strap Skeon Watch",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/63/1.jpg",
+            "price": "250",
+            "itemquantity": 1
+        }
+    ],
+    "JEWLLERY_item": [
+        {
+            "id": 21,
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Silver Ring Set Women",
+            "title": "Silver Ring Set Women",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/76/2.jpg",
+            "price": "350",
+            "itemquantity": 1
+        },
+        {
+            "id": 22,
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Rose Ring",
+            "title": "Elegant Female Pearl Earrings",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/77/2.jpg",
+            "price": "150",
+            "itemquantity": 1
+        },
+        {
+            "id": 23,
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Silver Ring Set Women",
+            "title": "Rose Ring",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/79/1.jpg",
+            "price": "500",
+            "itemquantity": 1
+        }
+    ],
+    "tshirt_item": [
+        {
+            "id": 24,
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Many store is creating new designs and t",
+            "title": "Money Heist Printed Summer T Shirts",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/51/1.png",
+            "price": "115",
+            "itemquantity": 1
+        },
+        {
+            "id": 25,
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "quality and professional print - It does",
+            "title": "Pubg Printed Graphic T-Shirt",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/52/1.png",
+            "price": "50",
+            "itemquantity": 1
+        },
+        {
+            "id": 26,
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Brand: vintage Apparel ,Export quality",
+            "title": "Free Fire T shirts",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/53/1.webp",
+            "price": "170",
+            "itemquantity": 1
+        }
+    ],
+    "menclothes_item": [
+        {
+            "id": 30,
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "title": "women winter clothes",
+            "ImageUrl": "images/mensclothes1.jpg",
+            "price": "285",
+            "itemquantity": 1
+        },
+        {
+            "id": 31,
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "title": "women winter clothes",
+            "ImageUrl": "images/mensclothes2.jpg",
+            "price": "285",
+            "itemquantity": 1
+        },
+        {
+            "id": 32,
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/mensclothes3.jpg",
+            "price": "899",
+            "itemquantity": 1
+        }
+    ],
+    "tops_item": [
+        {
+            "id": 33,
+            "brand": "Apple",
+            "category": "tops",
+            "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SO",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/37/1.jpg",
+            "price": "250",
+            "itemquantity": 1
+        },
+        {
+            "id": 34,
+            "brand": "Apple",
+            "category": "tops",
+            "description": "Cotton Solid Color Professional Wear Sle",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/36/1.jpg",
+            "price": "450",
+            "itemquantity": 1
+        },
+        {
+            "id": 35,
+            "brand": "Apple",
+            "category": "tops",
+            "description": "sublimation plain kids tank tops wholesa",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/38/1.png",
+            "price": "500",
+            "itemquantity": 1
+        }
+    ],
+    "phone_item": [
+        {
+            "id": 36,
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "An apple mobile which is nothing like ap",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "price": "2745",
+            "itemquantity": 1
+        },
+        {
+            "id": 37,
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "Samsung's new variant which goes beyond",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/3/1.jpg",
+            "price": "6245",
+            "itemquantity": 1
+        },
+        {
+            "id": 38,
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "OPPO F19 is officially announced on Apri",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/4/1.jpg",
+            "price": "1400",
+            "itemquantity": 1
+        }
+    ],
+    "laptops_item": [
+        {
+            "id": 39,
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "MacBook Pro 2021 with mini-LED display m",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/6/1.png",
+            "price": "899",
+            "itemquantity": 1
+        },
+        {
+            "id": 40,
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/8/1.jpg",
+            "price": "899",
+            "itemquantity": 1
+        },
+        {
+            "id": 41,
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/9/1.jpg",
+            "price": "899",
+            "itemquantity": 1
+        }
+    ],
+    "automotive_item": [
+        {
+            "id": 42,
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Bluetooth Aux Bluetooth Car Aux Car Blue",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "125",
+            "itemquantity": 1
+        },
+        {
+            "id": 43,
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "899",
+            "itemquantity": 1
+        },
+        {
+            "id": 44,
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "899",
+            "itemquantity": 1
+        }
+    ],
+    "motorcycle_item": [
+        {
+            "id": 45,
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "899",
+            "itemquantity": 1
+        },
+        {
+            "id": 46,
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "899",
+            "itemquantity": 1
+        },
+        {
+            "id": 47,
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "title": "iPhon X",
+            "ImageUrl": "images/steel analog watch.jpg",
+            "price": "899",
+            "itemquantity": 1
+        }
+    ],
+    "products": [
+        {
+            "id": 0,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 36,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "An apple mobile which is nothing like ap",
+            "itemquantity": 1,
+            "price": "2745",
+            "title": "iPhon X"
+        },
+        {
+            "id": 39,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/6/1.png",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "MacBook Pro 2021 with mini-LED display m",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 40,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/8/1.jpg",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 41,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/9/1.jpg",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 66,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/21/1.png",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "Fine quality Branded Product Keep in a c",
+            "itemquantity": 1,
+            "price": "100",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 67,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/22/1.jpg",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "Product details of Bake Parlor Big Elbow",
+            "itemquantity": 1,
+            "price": "70",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 33,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/37/1.jpg",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SO",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "iPhon X"
+        },
+        {
+            "id": 34,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/36/1.jpg",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "Cotton Solid Color Professional Wear Sle",
+            "itemquantity": 1,
+            "price": "450",
+            "title": "iPhon X"
+        },
+        {
+            "id": 27,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/41/1.jpg",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "NIGHT SUIT RED MICKY MOUSE.. For Girls.",
+            "itemquantity": 1,
+            "price": "275",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 28,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/42/1.png",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROU",
+            "itemquantity": 1,
+            "price": "400",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 48,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/46/1.webp",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "Close: Lace, Style with bottom: Increase",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "iPhon X"
+        },
+        {
+            "id": 49,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/47/1.jpg",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "Synthetic Leather Casual Sneaker shoes f",
+            "itemquantity": 1,
+            "price": "600",
+            "title": "iPhon X"
+        },
+        {
+            "id": 24,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/51/1.png",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Many store is creating new designs and t",
+            "itemquantity": 1,
+            "price": "115",
+            "title": "Money Heist Printed Summer T Shirts"
+        },
+        {
+            "id": 25,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/52/1.png",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "quality and professional print - It does",
+            "itemquantity": 1,
+            "price": "50",
+            "title": "Pubg Printed Graphic T-Shirt"
+        },
+        {
+            "id": 53,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/56/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedC",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "iPhon X"
+        },
+        {
+            "id": 54,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/57/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "Men Shoes - Loafers for men - Rubber Sho",
+            "itemquantity": 1,
+            "price": "235",
+            "title": "iPhon X"
+        },
+        {
+            "id": 30,
+            "ImageUrl": "images/mensclothes1.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "women winter clothes"
+        },
+        {
+            "id": 31,
+            "ImageUrl": "images/mensclothes2.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "women winter clothes"
+        },
+        {
+            "id": 18,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/61/1.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Style:Sport ,Clasp:Buckles ,Water Resist",
+            "itemquantity": 1,
+            "price": "600",
+            "title": "Waterproof Leather Brand Watch"
+        },
+        {
+            "id": 19,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/62/1.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Watch Crown With Environmental IPS Bronz",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Royal Blue Premium Watch"
+        },
+        {
+            "id": 5,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/2.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Steel Analog Couple Watches",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Steel Analog Couple Watches"
+        },
+        {
+            "id": 6,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/67/2.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Fashion Magnetic Wrist Watches",
+            "itemquantity": 1,
+            "price": "300",
+            "title": "Fashion Magnetic Wrist Watches"
+        },
+        {
+            "id": 7,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/68/2.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stylish Luxury Digital Watches",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "Stylish Luxury Digital Watches"
+        },
+        {
+            "id": 8,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/69/2.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Golden Pearls Brace Watches",
+            "itemquantity": 1,
+            "price": "235",
+            "title": "Golden Pearls Brace Watches"
+        },
+        {
+            "id": 9,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/70/2.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stainless Steel",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Stainless Steel Women"
+        },
+        {
+            "id": 68,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/26/1.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "Boho Decor Plant Hanger For Home Wall De",
+            "itemquantity": 1,
+            "price": "205",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 69,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/27/1.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "Package Include 6 Birds with Adhesive Ta",
+            "itemquantity": 1,
+            "price": "255",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 63,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/11/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Mega Discount, Impression of Acqua Di Gi",
+            "itemquantity": 1,
+            "price": "65",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 64,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/12/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Royal_Mirage Sport Brown Perfume for Men",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 10,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/71/2.jpg",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 11,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/72/2.png",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Handbag For Girl",
+            "itemquantity": 1,
+            "price": "360",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 21,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/76/2.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Silver Ring Set Women",
+            "itemquantity": 1,
+            "price": "350",
+            "title": "Silver Ring Set Women"
+        },
+        {
+            "id": 22,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/77/2.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Rose Ring",
+            "itemquantity": 1,
+            "price": "150",
+            "title": "Elegant Female Pearl Earrings"
+        },
+        {
+            "id": 58,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/81/1.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "A pair of sunglasses can protect your ey",
+            "itemquantity": 1,
+            "price": "95",
+            "title": "iPhon X"
+        },
+        {
+            "id": 59,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/82/1.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "Orignal Metal Kabir Singh design 2020 Su",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 42,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 43,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 45,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 46,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 132,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/16/1.png",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "L'OrÃ©al Paris introduces Hyaluron Exper",
+            "itemquantity": 1,
+            "price": "95",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 131,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/17/1.jpg",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "Tea tree oil contains a number of compou",
+            "itemquantity": 1,
+            "price": "60",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 70,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/31/1.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "Mornadi Velvet Bed Base with Headboard S",
+            "itemquantity": 1,
+            "price": "2000",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 71,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/32/1.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "Ratttan Outdoor furniture Set Waterproof",
+            "itemquantity": 1,
+            "price": "2500",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 72,
+            "ImageUrl": "images/bags1.jpg",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 73,
+            "ImageUrl": "images/bags3.png",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Handbag For Girl",
+            "itemquantity": 1,
+            "price": "360",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 37,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/3/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "Samsung's new variant which goes beyond",
+            "itemquantity": 1,
+            "price": "6245",
+            "title": "iPhon X"
+        },
+        {
+            "id": 38,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/4/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "OPPO F19 is officially announced on Apri",
+            "itemquantity": 1,
+            "price": "1400",
+            "title": "iPhon X"
+        },
+        {
+            "id": 1,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/10/1.jpg",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10",
+            "itemquantity": 1,
+            "price": "5495",
+            "title": "Samsung Galaxy Book"
+        },
+        {
+            "id": 2,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/7/2.jpg",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Samsung Galaxy Book S (2020) Laptop With",
+            "itemquantity": 1,
+            "price": "7495",
+            "title": "Microsoft Surface Laptop4"
+        },
+        {
+            "id": 3,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/9/2.png",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14",
+            "itemquantity": 1,
+            "price": "7495",
+            "title": "Infinix INBOOK"
+        },
+        {
+            "id": 4,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/8/2.jpg",
+            "brand": "Apple",
+            "category": "laptops",
+            "description": "Style and speed. Stand out on HD video c",
+            "itemquantity": 1,
+            "price": "5495",
+            "title": "HP Pavilion 15-DK1056WM"
+        },
+        {
+            "id": 74,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/13/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Product details of Best Fog Scent Xpress",
+            "itemquantity": 1,
+            "price": "65",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 75,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/14/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Original Al Munakh® by Mahal Al Musk | O",
+            "itemquantity": 1,
+            "price": "600",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 76,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/15/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Genuine Al-Rehab spray perfume from UAE",
+            "itemquantity": 1,
+            "price": "150",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 77,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/12/1.jpg",
+            "brand": "Apple",
+            "category": "fragrances",
+            "description": "Royal_Mirage Sport Brown Perfume for Men",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "Handbag For Girl"
+        },
+        {
+            "id": 78,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/18/1.jpg",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "Dermive Oil Free Moisturizer with SPF 20",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 79,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/19/1.jpg",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "Product name: rorec collagen hyaluronic",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 80,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/20/1.jpg",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "Fair & Clear is Pakistan's only pure Fre",
+            "itemquantity": 1,
+            "price": "350",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 81,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/16/4.jpg",
+            "brand": "Apple",
+            "category": "skincare",
+            "description": "L'OrÃ©al Paris introduces Hyaluron Exper",
+            "itemquantity": 1,
+            "price": "95",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 82,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/23/1.jpg",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "Specifications of Orange Essence Food Fl",
+            "itemquantity": 1,
+            "price": "70",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 83,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/24/1.jpg",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "original fauji cereal muesli 250gm box p",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 84,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/25/1.png",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "Dry Rose Flower Powder Gulab Powder 50 G",
+            "itemquantity": 1,
+            "price": "100",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 85,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/23/2.jpg",
+            "brand": "Apple",
+            "category": "groceries",
+            "description": "Specifications of Orange Essence Food Fl",
+            "itemquantity": 1,
+            "price": "70",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 86,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/28/1.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "3D led lamp sticker Wall sticker 3d wall",
+            "itemquantity": 1,
+            "price": "100",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 87,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/29/1.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "Handcraft Chinese style art luxury palac",
+            "itemquantity": 1,
+            "price": "300",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 88,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/30/1.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "Attractive DesignMetallic materialFour k",
+            "itemquantity": 1,
+            "price": "150",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 89,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/27/2.jpg",
+            "brand": "Apple",
+            "category": "home-decoration",
+            "description": "Package Include 6 Birds with Adhesive Ta",
+            "itemquantity": 1,
+            "price": "255",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 90,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/33/1.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "3 Tier Corner Shelves | 3 PCs Wall Mount",
+            "itemquantity": 1,
+            "price": "3500",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 91,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/34/1.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "V﻿ery good quality plastic table for mul",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 92,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/35/1.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "Material: Stainless Steel and Fabric It",
+            "itemquantity": 1,
+            "price": "205",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 93,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/32/2.jpg",
+            "brand": "Apple",
+            "category": "furniture",
+            "description": "Ratttan Outdoor furniture Set Waterproof",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 35,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/38/1.png",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "sublimation plain kids tank tops wholesa",
+            "itemquantity": 1,
+            "price": "500",
+            "title": "iPhon X"
+        },
+        {
+            "id": 94,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/39/1.jpg",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "2021 Custom Winter Fall Zebra Knit Crop",
+            "itemquantity": 1,
+            "price": "300",
+            "title": "iPhon X"
+        },
+        {
+            "id": 95,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/36/3.webp",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "sublimation plain kids tank tops wholesa",
+            "itemquantity": 1,
+            "price": "500",
+            "title": "iPhon X"
+        },
+        {
+            "id": 96,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/36/2.webp",
+            "brand": "Apple",
+            "category": "tops",
+            "description": "2021 Custom Winter Fall Zebra Knit Crop",
+            "itemquantity": 1,
+            "price": "300",
+            "title": "iPhon X"
+        },
+        {
+            "id": 29,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/43/1.jpg",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "Ghazi fabric long frock gold printed rea",
+            "itemquantity": 1,
+            "price": "300",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 97,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/44/1.jpg",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "This classy shirt for women gives you a",
+            "itemquantity": 1,
+            "price": "359",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 98,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/45/1.jpg",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "Ready to wear, Unique design according t",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 99,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/42/2.png",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROU",
+            "itemquantity": 1,
+            "price": "400",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 100,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/43/2.jpg",
+            "brand": "Apple",
+            "category": "womens-dresses",
+            "description": "Ghazi fabric long frock gold printed rea",
+            "itemquantity": 1,
+            "price": "280",
+            "title": "Ladies Multicolored Dress"
+        },
+        {
+            "id": 50,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/48/1.jpg",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "Features: Flip-flops, Mid Heel, Comforta",
+            "itemquantity": 1,
+            "price": "200",
+            "title": "iPhon X"
+        },
+        {
+            "id": 51,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/49/1.jpg",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "Womens Chappals & Shoe Ladies Metallic T",
+            "itemquantity": 1,
+            "price": "115",
+            "title": "iPhon X"
+        },
+        {
+            "id": 52,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/50/1.jpeg",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "2020 New Arrivals Genuine Leather Fashio",
+            "itemquantity": 1,
+            "price": "180",
+            "title": "iPhon X"
+        },
+        {
+            "id": 26,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/53/1.webp",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Brand: vintage Apparel ,Export quality",
+            "itemquantity": 1,
+            "price": "170",
+            "title": "Free Fire T shirts"
+        },
+        {
+            "id": 101,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/54/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Product Description Features: 100% Ultra",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Free Fire T shirts"
+        },
+        {
+            "id": 102,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/55/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Fabric Jercy, Size: M & L Wear Stylish D",
+            "itemquantity": 1,
+            "price": "330",
+            "title": "Free Fire T shirts"
+        },
+        {
+            "id": 103,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/53/2.jpg",
+            "brand": "Apple",
+            "category": "mens-shirts",
+            "description": "Fabric Jercy, Size: M & L Wear Stylish D",
+            "itemquantity": 1,
+            "price": "50",
+            "title": "Free Fire T shirts"
+        },
+        {
+            "id": 55,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/58/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe S",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "iPhon X"
+        },
+        {
+            "id": 56,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/59/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "Comfortable stretch cloth, lightweight b",
+            "itemquantity": 1,
+            "price": "100",
+            "title": "iPhon X"
+        },
+        {
+            "id": 57,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/60/1.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "High Quality ,Stylish design ,Comfortabl",
+            "itemquantity": 1,
+            "price": "290",
+            "title": "iPhon X"
+        },
+        {
+            "id": 104,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/57/3.jpg",
+            "brand": "Apple",
+            "category": "mens-shoes",
+            "description": "Stylish design ,Comfortabl",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 32,
+            "ImageUrl": "images/mensclothes3.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 105,
+            "ImageUrl": "images/mensclothes3.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 106,
+            "ImageUrl": "images/mensclothes3.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 107,
+            "ImageUrl": "images/mensclothes3.jpg",
+            "brand": "Apple",
+            "category": "mens-clothes",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 20,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/63/1.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Men Silver Chain Royal Blue Premium Watc",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "Leather Strap Skeon Watch"
+        },
+        {
+            "id": 108,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/64/1.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Leather Strap Skeleton Watch for Men - S",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Leather Strap Skeon Watch"
+        },
+        {
+            "id": 109,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/65/1.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Stylish Watch For Man (Luxury) Classy Me",
+            "itemquantity": 1,
+            "price": "245",
+            "title": "Leather Strap Skeon Watch"
+        },
+        {
+            "id": 110,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/62/2.jpg",
+            "brand": "Apple",
+            "category": "mens-watches",
+            "description": "Watch Crown With Environmental IPS Bronz",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Leather Strap Skeon Watch"
+        },
+        {
+            "id": 13,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/66/1.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Elegant design, Stylish ,Unique & Trendy",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "iPhon X"
+        },
+        {
+            "id": 14,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/67/1.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Buy this awesome The product is origina",
+            "itemquantity": 1,
+            "price": "380",
+            "title": "iPhon X"
+        },
+        {
+            "id": 15,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/69/1.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Product details of Golden Watch Pearls B",
+            "itemquantity": 1,
+            "price": "235",
+            "title": "iPhon X"
+        },
+        {
+            "id": 16,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/70/1.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Fashion Skmei 1830 Shell Dial Stainless",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "iPhon X"
+        },
+        {
+            "id": 17,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/68/1.jpg",
+            "brand": "Apple",
+            "category": "womens-watches",
+            "description": "Stylish Luxury Digital Watch For Girls /",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "iPhon X"
+        },
+        {
+            "id": 12,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/73/2.webp",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "Fancy hand clutch",
+            "itemquantity": 1,
+            "price": "285",
+            "title": "Fancy hand clutch"
+        },
+        {
+            "id": 111,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/71/1.jpg",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "LouisWill Women Shoulder Bags Long Clutc",
+            "itemquantity": 1,
+            "price": "230",
+            "title": "Fancy hand clutch"
+        },
+        {
+            "id": 112,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/72/1.jpg",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "This fashion is designed to add a charmi",
+            "itemquantity": 1,
+            "price": "115",
+            "title": "Fancy hand clutch"
+        },
+        {
+            "id": 113,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/73/1.jpg",
+            "brand": "Apple",
+            "category": "womens-bags",
+            "description": "This fashion is designed to add a charmi",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "Fancy hand clutch"
+        },
+        {
+            "id": 23,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/79/1.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Silver Ring Set Women",
+            "itemquantity": 1,
+            "price": "500",
+            "title": "Rose Ring"
+        },
+        {
+            "id": 114,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/76/1.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Jewelry Type:RingsCertificate Type:NoneP",
+            "itemquantity": 1,
+            "price": "350",
+            "title": "Rose Ring"
+        },
+        {
+            "id": 115,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Fashion Jewellery 3Pcs Adjustable Pearl",
+            "itemquantity": 1,
+            "price": "150",
+            "title": "Rose Ring"
+        },
+        {
+            "id": 116,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/77/1.jpg",
+            "brand": "Apple",
+            "category": "womens-jewellery",
+            "description": "Brand: The Greetings Flower Colour: RedR",
+            "itemquantity": 1,
+            "price": "500",
+            "title": "Rose Ring"
+        },
+        {
+            "id": 60,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/83/1.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "Wiley X Night Vision Yellow Glasses for",
+            "itemquantity": 1,
+            "price": "140",
+            "title": "iPhon X"
+        },
+        {
+            "id": 61,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/84/1.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "Fashion Oversized Square Sunglasses Retr",
+            "itemquantity": 1,
+            "price": "150",
+            "title": "iPhon X"
+        },
+        {
+            "id": 62,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/85/1.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "LouisWill Men Sunglasses Polarized Sungl",
+            "itemquantity": 1,
+            "price": "250",
+            "title": "iPhon X"
+        },
+        {
+            "id": 117,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/84/2.jpg",
+            "brand": "Apple",
+            "category": "sunglasses",
+            "description": "Fashion Oversized Square Sunglasses Retr",
+            "itemquantity": 1,
+            "price": "240",
+            "title": "iPhon X"
+        },
+        {
+            "id": 44,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 118,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 119,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 120,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "automotive",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 47,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 121,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 122,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 123,
+            "ImageUrl": "images/steel analog watch.jpg",
+            "brand": "Apple",
+            "category": "motorcycle",
+            "description": "Microsoft Surface Laptop4",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 124,
+            "ImageUrl": "images/bags1.jpg",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 125,
+            "ImageUrl": "images/bags1.jpg",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 126,
+            "ImageUrl": "images/bags1.jpg",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 127,
+            "ImageUrl": "images/bags1.jpg",
+            "brand": "Apple",
+            "category": "lighting",
+            "description": "Women Shoulder Bags",
+            "itemquantity": 1,
+            "price": "175",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "id": 128,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/5/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "Huawei’s re-badged P30 Pro New Edition w",
+            "itemquantity": 1,
+            "price": "2495",
+            "title": "iPhon X"
+        },
+        {
+            "id": 129,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "OPPO F17 is officially announced on May",
+            "itemquantity": 1,
+            "price": "899",
+            "title": "iPhon X"
+        },
+        {
+            "id": 130,
+            "ImageUrl": "https://cdn.dummyjson.com/product-images/47/1.jpg",
+            "brand": "Apple",
+            "category": "womens-shoes",
+            "description": "Synthetic Leather Casual Sneaker shoes f",
+            "itemquantity": 1,
+            "price": "600",
+            "title": "iPhon X"
+        }
+    ],
+    "team_member": [
+        {
+            "id": "1",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "2",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "3",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "4",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "5",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "6",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        },
+        {
+            "id": "7",
+            "img": "../src/assets/Team-Image2.png",
+            "name": "Mohamed Wael",
+            "track": "Full Stack Devoloper"
+        }
+    ],
+    "booking_services": [
+        {
+            "id": "0",
+            "title": "Dry car wash",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/DryWash.png?alt=media&token=668ff334-ca42-4a3b-ba25-637e7f00a6af",
+            "serviceprice": "50",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "1.5H"
+        },
+        {
+            "id": "1",
+            "title": "Steam car wash",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/SteamWash.png?alt=media&token=b1bc0b30-3951-4024-80f6-4a7e498c891b",
+            "serviceprice": "70",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "2.5H"
+        },
+        {
+            "id": "2",
+            "title": "Foam car wash",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/FoamWash.png?alt=media&token=f14895a7-ebc6-4889-bd13-2f056972a6a7",
+            "serviceprice": "65",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "1H"
+        },
+        {
+            "id": "4",
+            "title": "Polishing the car surface",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/Polishing%20the%20car%20surface.png?alt=media&token=370a15c1-2a4f-4d75-b5d9-b66e634b7a3b",
+            "serviceprice": "90",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "0.5H"
+        },
+        {
+            "id": "5",
+            "title": "Engine car wash",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/EngineWash.png?alt=media&token=73ce7004-57cd-43b7-b9a2-ef2b3310fb48",
+            "serviceprice": "95",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "3H"
+        },
+        {
+            "id": "6",
+            "title": "Seats car wash",
+            "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/lava-11a9b.appspot.com/o/SeatsWash.png?alt=media&token=94901bb1-66db-4b52-afe8-b4122c2ecb69",
+            "serviceprice": "65",
+            "description": "Lorem ipsum dolor sit amet consectetur. Mauris mauris tortor aliquam adipiscing.",
+            "serviceduration": "2.5H"
+        }
+    ],
+    "cars": [
+        {
+            "id": "0",
+            "name": "sport",
+            "model": [
+                "2x",
+                "3x",
+                "4x",
+                "6x"
+            ],
+            "brand": "honda",
+            "ImageUrl": "../src/assets/DryWash.png",
+            "price": "150",
+            "color": [
+                "red",
+                "green",
+                "yellow",
+                "blue",
+                "black"
+            ]
+        },
+        {
+            "id": "1",
+            "name": "sport",
+            "model": [
+                "2x",
+                "3x",
+                "4x",
+                "6x"
+            ],
+            "brand": "verrae",
+            "ImageUrl": "../src/assets/DryWash.png",
+            "price": "150",
+            "color": [
+                "red",
+                "green",
+                "yellow",
+                "blue",
+                "black"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "sport",
+            "model": [
+                "2x",
+                "3x",
+                "4x",
+                "6x"
+            ],
+            "brand": "omega",
+            "ImageUrl": "../src/assets/DryWash.png",
+            "price": "150",
+            "color": [
+                "red",
+                "green",
+                "yellow",
+                "blue",
+                "black"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "sport",
+            "model": [
+                "2x",
+                "3x",
+                "4x",
+                "6x"
+            ],
+            "brand": "tenza",
+            "ImageUrl": "../src/assets/DryWash.png",
+            "price": "150",
+            "color": [
+                "red",
+                "green",
+                "yellow",
+                "blue",
+                "black"
+            ]
+        }
+    ]
+}

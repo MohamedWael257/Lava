@@ -1,0 +1,350 @@
+header {
+    position: absolute;
+    position: relative;
+    width: 100%;
+    /* display: grid; */
+    /* grid-template-columns: 1fr 5fr; */
+    /* padding: 0 10rem; */
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #06090d;
+    color: white;
+    z-index: 33;
+}
+
+header .logo {
+    /* width: 100px; */
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+header .logo img {
+    width: 100px;
+}
+
+header .nav-menu {
+    /* width: 1000px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header .nav-menu nav {
+    /* background-color: tan; */
+    /* width: 600px; */
+    /* width: 100%; */
+    margin-top: 20px;
+    margin-right: 45px;
+    display: flex;
+    position: relative;
+}
+
+.sidecart {
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    /* border: 2px solid #477cff; */
+    border-top: none;
+    position: absolute;
+    top: 75px;
+    left: 220px;
+    background-color: #06090d;
+    /* 0 0 10px #477cff, */
+    /* 0 0 20px #477cff, */
+    /* 0 0 30px #477cff, */
+    box-shadow:
+        0px 20px 30px 5px #477cff;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    max-height: 250px;
+    overflow: auto;
+    visibility: hidden;
+    opacity: 0;
+    transition: .3s visibility, .3s opacity;
+}
+
+.sidecart>a {
+    margin: 10px auto;
+    color: white;
+    transition: .3s color;
+}
+
+.sidecart>a:hover {
+    color: #477cff;
+}
+
+.sidecart>div {
+    display: grid;
+    grid-template-columns: 6fr repeat(3, 1fr);
+    gap: 10px;
+    background-color: #477cff;
+    border-radius: 10px;
+    margin: 10px 0;
+    /* border: 2px solid black; */
+}
+
+.sidecart.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.sidecart div * {
+    display: grid;
+    place-content: center;
+
+}
+
+.sidecart div p {
+    padding: 10px;
+    font-size: 1.2rem;
+    /* border-right: 2px solid black; */
+}
+
+.sidecart div button {
+    font-size: 2rem;
+}
+
+header .nav-menu nav a,
+.dropdown-btn {
+    /* margin-left: 25px; */
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    color: white;
+    transition: .3s color;
+    transform: translateY(-3px);
+}
+
+header .nav-menu nav>a {
+    margin-left: 25px;
+    transform: translateY(10px);
+}
+
+.dropdown-btn {
+    transform: translateY(0);
+}
+
+header .nav-menu .cart {
+    /* position: relative; */
+    display: flex;
+    margin-left: -13px;
+    /* margin-left: 0px; */
+}
+
+header .nav-menu .cart>* {
+    margin-right: 5px;
+}
+
+header .nav-menu .cart p {
+    /* content: "0"; */
+    /* position: absolute; */
+    /* top: -10px; */
+    /* right: -15px; */
+    background-color: #477cff;
+    color: #06090d;
+    /* color: #477cff; */
+    font-size: 1.4rem;
+    font-weight: 500;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: grid;
+    place-content: center;
+}
+
+
+header nav a:hover,
+header nav a.active,
+header nav>button:hover,
+header nav>button:active {
+    color: #477cff;
+    /* color: #47afff; */
+    /* color: #47FFF4; */
+}
+
+header .account {
+    /* width: 400px; */
+    transform: translateY(10px);
+    /* background-color: tomato; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* padding: 10px; */
+}
+
+
+header .account a,
+header .account button,
+.booknow,
+.learn-more {
+    padding: 12px 35px;
+    margin-right: 15px;
+    font-size: 1.3rem;
+    background-color: transparent;
+    color: #477cff;
+    /* background-color: #477cff; */
+    border-radius: 50px;
+    border: 2px solid #477cff;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    transition: 1s color, 1s box-shadow;
+}
+
+header .account a {
+    display: inline-flex;
+}
+
+header .account a:hover,
+header .account button:hover,
+.booknow:hover,
+.learn-more:hover {
+    color: white;
+    /* background-color: black; */
+    transition-delay: 0s, 1s;
+    box-shadow:
+        0 0 10px #477cff,
+        0 0 20px #477cff,
+        0 0 40px #477cff,
+        0 0 50px #477cff;
+}
+
+header .account a::before,
+header .account button::before,
+.booknow::before,
+.learn-more::before {
+    content: "";
+    position: absolute;
+    left: -40%;
+    top: 0;
+    width: 0;
+    height: 100%;
+    background-color: #477cff;
+    transform: skew(35deg);
+    transition: 1s;
+    z-index: -1;
+}
+
+.btn-h {
+    display: none;
+    font-size: 3rem;
+    font-weight: 500;
+    /* padding: 0px 30px; */
+    background-color: transparent;
+    color: #477cff;
+    cursor: pointer;
+}
+
+header .account a:hover::before,
+header .account button:hover::before,
+.booknow:hover::before,
+.learn-more:hover::before {
+    width: 100%;
+}
+
+header .dropdown {
+    /* display: inline; */
+    position: relative;
+    transform: translateY(10px);
+
+}
+
+header .dropdown-menu {
+    background-color: #06090d;
+    position: absolute;
+    top: 45px;
+    display: grid;
+    width: 200px;
+    border-radius: 15px;
+    /* height: 250px; */
+    padding: 8px;
+    z-index: 3333;
+    opacity: 0;
+    visibility: hidden;
+    transition: .4s opacity, .4s visibility;
+}
+
+header .dropdown .dropdown-menu a {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.dropdown:hover .dropdown-menu {
+    visibility: visible;
+    opacity: 1;
+}
+
+@media(max-width:1200px) {
+    header .nav-menu {
+        width: 850px;
+    }
+
+    header .account {
+        width: 250px;
+    }
+
+    header .account a,
+    header .account button {
+        font-size: 1rem;
+    }
+}
+
+@media(max-width:992px) {
+    .btn-h {
+        display: block;
+    }
+
+    header {
+        justify-content: space-between;
+    }
+
+    header .nav-menu {
+        position: absolute;
+        width: 100%;
+        height: 0;
+        background-color: rgb(41, 41, 41);
+        z-index: 333;
+        top: 110px;
+        left: 0;
+        display: grid;
+        overflow: hidden;
+        transition: 1s height;
+    }
+
+    header .nav-menu.active {
+        height: 430px;
+        padding-bottom: 20px;
+    }
+
+    header .nav-menu nav,
+    header .nav-menu .account {
+        text-align: center;
+        display: grid;
+        gap: 10px;
+        justify-content: center;
+        width: 100%;
+    }
+
+    header .nav-menu nav .cart {
+        display: grid;
+        text-align: center;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    header .nav-menu .account a,
+    header .nav-menu .account button {
+        margin: 0;
+        margin-left: 15px;
+        padding: 0px 35px;
+    }
+
+    header .nav-menu .account a>* {
+        transform: translateY(12px);
+    }
+}
+
+/* /////////////////////header///////////////// */
