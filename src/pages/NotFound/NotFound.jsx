@@ -1,5 +1,5 @@
 import React, { memo } from 'react'
-import './notfound.css'
+import './Notfound.css'
 import four from '../../assets/Number-4.png'
 import wheel from '../../assets/Wheel-With-Red-Rim-1.png'
 import { Link, useNavigate } from 'react-router-dom'
