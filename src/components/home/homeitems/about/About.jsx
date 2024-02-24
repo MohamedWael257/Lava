@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import './About.css'
 import Foto1 from '../../../../assets/About-Us-foto-.png'
 import Foto2 from '../../../../assets/about-us-Foto-2.png'
-import Foto3 from '../../../../assets/About-Us-Foto-3.png.png'
+import Foto3 from '../../../../assets/about-us-Foto-3.png.png'
 
 import Foto4 from '../../../../assets/About-us-image.png'
 import Foto5 from '../../../../assets/About-us-image2.png'
