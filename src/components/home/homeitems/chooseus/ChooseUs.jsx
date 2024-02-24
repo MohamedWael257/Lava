@@ -5,7 +5,7 @@ import Image2 from '../../../../assets/car-shampoo.png'
 import Image3 from '../../../../assets/glass-coating.png'
 import Image4 from '../../../../assets/pressure-washer.png'
 import Image5 from '../../../../assets/About-Us-foto-.png'
-import Image6 from '../../../../assets/About-Us-foto-3.png.png'
+import Image6 from '../../../../assets/about-us-Foto-3.png.png'
 import Image7 from '../../../../assets/raunder-why-choose-us.png'
 const ChooseUs = () => {
     return (
