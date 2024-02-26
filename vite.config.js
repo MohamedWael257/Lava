@@ -8,5 +8,5 @@ export default defineConfig({
   // define: {
   //   'process.env': process.env
   // },
-  base: '/Lava-firebase/'
+  // base: '/Lava-firebase/'
 })
